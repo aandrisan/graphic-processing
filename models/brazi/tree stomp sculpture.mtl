@@ -1,0 +1,13 @@
+# Blender3D MTL File: tree stomp sculpture.blend
+# Material Count: 1
+newmtl Material_tree_stomp_colmap_tst
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.233811 0.070143 0.105215
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd tree stomp colmap tst.jpg
+
+
